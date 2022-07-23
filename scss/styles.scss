@@ -1,0 +1,18 @@
+@import 'base/index';
+@import 'utilities/index';
+@import 'component/index';
+
+* {
+    font-family: 'Lato', sans-serif;
+    color: #777;
+    box-sizing: border-box;
+  }
+  
+  p {
+    line-height: 1.45em;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
